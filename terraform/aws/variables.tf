@@ -28,7 +28,7 @@ variable "ENV_NAME" {}
 
 variable "aws_region" {
     description = "AWS region to launch Compute."
-    default = "us-west-2"
+    default = "us-east-1"
 }
 
 variable "aws_amis" {
