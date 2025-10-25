@@ -33,5 +33,5 @@ variable "aws_region" {
 
 variable "aws_amis" {
     description = "Image to be used in instance creation"
-    default = "ami-f8768a80" 
+    default = "ami-0360c520857e3138f" 
 	}
